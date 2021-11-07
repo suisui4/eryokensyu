@@ -2,4 +2,3 @@ Flask
 gunicorn==20.0.4
 numpy
 opencv-python--headless
-opencv-contrib-python
