@@ -1,9 +1,7 @@
 import os
 import sys
-import openslide
 import cv2
 import cv2.cv2 as cv
-from matplotlib import pyplot as plt
 import numpy as np
 
 
