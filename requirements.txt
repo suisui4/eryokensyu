@@ -1,4 +1,4 @@
-Flask==1.0.2
+Flask
 gunicorn==20.0.4
 numpy
 opencv-python
